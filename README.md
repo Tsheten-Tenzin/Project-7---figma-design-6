@@ -1,1 +1,7 @@
-# Welcome to project 7
+# Welcome to Project 7
+## This project is a landing page developed as a student taking inspirations from figma design
+### Tools i used in this project are:
+- HTML5
+- CSS3
+- Bootstrap
+- SASS
